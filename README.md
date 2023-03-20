@@ -27,5 +27,5 @@ El mismo posee informacion de los departamentos en venta en Ciudad de Buenos Air
 
   Nota: Se decide no utilizar las columnas PropiedadS y Cotización ya que no se encontro informacion sobre las mismas.
 
-**Temas abarcados:** Análisis exploratorio con Pandas. Visualización con Seaborn 
+**Temas abarcados:** Análisis exploratorio con Pandas. Visualización con Plotly
 
