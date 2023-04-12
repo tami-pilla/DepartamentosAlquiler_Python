@@ -27,5 +27,5 @@ El mismo posee información de los departamentos en venta en Ciudad de Buenos Ai
 
   Nota: Se decide no utilizar las columnas PropiedadS y Cotización ya que no se encontró información sobre las mismas.
 
-**Temas abarcados:** Análisis exploratorio con Pandas. Visualización con Plotly
+**Temas abarcados:** Análisis exploratorio con Pandas. Visualización con Seaborn
 
