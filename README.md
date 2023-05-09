@@ -9,7 +9,6 @@ El mismo posee información de los departamentos en venta en Ciudad de Buenos Ai
 - Visualizar las relaciones entre las distintas variables del dataset
 
 ### **Variables del Dataset:**
-<br>
  Dirección: Dirección de la propiedad<br>
  PropiedadS:(No se encontró información acerca del valor que corresponde esta variable) <br>
  Dolares: Valor en dólares de la propiedad<br>
