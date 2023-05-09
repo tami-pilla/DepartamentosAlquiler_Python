@@ -1,9 +1,12 @@
 # Departamentos en Venta en CABA 2020
 
-### **Dataset:**
-
 Para este análisis descriptivo se utilizara el siguiente dataset: https://data.buenosaires.gob.ar/dataset/departamentos-venta<br>
 El mismo posee información de los departamentos en venta en Ciudad de Buenos Aires en el año 2020
+
+### **Objetivo**:
+- Realizar una limpieza a los datos.
+- Explorar cuales son las características de los departamentos en venta y sus precios.
+- Visualizar las relaciones entre las distintas variables del dataset
 
 ### **Variables del Dataset:**
 <br>
@@ -19,11 +22,6 @@ El mismo posee información de los departamentos en venta en Ciudad de Buenos Ai
  Barrio: Barrio al que pertenece la propiedad<br>
  Comunas: Comuna a la que pertenece la propiedad.
 <br>
-
-### **Objetivo**:
-- Realizar una limpieza a los datos.
-- Explorar cuales son las características de los departamentos en venta y sus precios.
-- Visualizar las relaciones entre las distintas variables del dataset
 
   Nota: Se decide no utilizar las columnas PropiedadS y Cotización ya que no se encontró información sobre las mismas.
 
